@@ -1,7 +1,7 @@
-# magisk-module-installer
+# 战狠昊京magisk模块
 
-This repo only for magisk module template, please read [Developer Guides](https://topjohnwu.github.io/Magisk/guides.html) for instruction on how to create a Magisk Module Installer!.
+点燃你的爱国心
+让战狠陪伴你生活
 
-- Updated repo at     : 20200117
-- Magisk Compatibilty : 20.3+
-
+# 使用方法
+在 release 中下载后直接在magisk刷入
